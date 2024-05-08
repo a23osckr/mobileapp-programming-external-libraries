@@ -17,6 +17,7 @@
 
 
     <com.mackhartley.dashedview.DashedView
+        android:id="@+id/dashed"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         app:dvDashAngle="45"
